@@ -13,8 +13,8 @@ Connects at 11ac speeds to AP.
   
 Installation:  
   
-make RTL8814=1  
-sudo make RTL8814=1 install  
+make  
+sudo make install  
 sudo modprobe 8814au  
   
   
